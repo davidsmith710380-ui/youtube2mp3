@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on YouTube MP3 Konverter</title>
-    <link>//localhost:1313/hu/categories/</link>
+    <link>https://davidsmith710380-ui.github.io/youtube2mp3/hu/categories/</link>
     <description>Recent content in Categories on YouTube MP3 Konverter</description>
     <generator>Hugo</generator>
     <language>hu</language>
-    <atom:link href="//localhost:1313/hu/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davidsmith710380-ui.github.io/youtube2mp3/hu/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

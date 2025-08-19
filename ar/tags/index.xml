@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on محول يوتيوب إلى MP3</title>
-    <link>//localhost:1313/ar/tags/</link>
+    <link>https://davidsmith710380-ui.github.io/youtube2mp3/ar/tags/</link>
     <description>Recent content in Tags on محول يوتيوب إلى MP3</description>
     <generator>Hugo</generator>
     <language>ar</language>
-    <atom:link href="//localhost:1313/ar/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davidsmith710380-ui.github.io/youtube2mp3/ar/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

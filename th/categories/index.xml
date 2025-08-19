@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on ตัวแปลง YouTube เป็น MP3</title>
-    <link>//localhost:1313/th/categories/</link>
+    <link>https://davidsmith710380-ui.github.io/youtube2mp3/th/categories/</link>
     <description>Recent content in Categories on ตัวแปลง YouTube เป็น MP3</description>
     <generator>Hugo</generator>
     <language>th</language>
-    <atom:link href="//localhost:1313/th/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davidsmith710380-ui.github.io/youtube2mp3/th/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
